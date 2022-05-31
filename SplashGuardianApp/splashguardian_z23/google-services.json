@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553544890209",
+    "project_id": "imagerpi-bef13",
+    "storage_bucket": "imagerpi-bef13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553544890209:android:62a2ec068adcc6c37af720",
+        "android_client_info": {
+          "package_name": "com.example.splashguardian_z23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553544890209-t2bk8hm02c8ph9b5bf5co63vc9dn0nh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLsT6JL7mapJJ1hoBOkYpwocCsnnNVwts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553544890209-t2bk8hm02c8ph9b5bf5co63vc9dn0nh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
