@@ -103,6 +103,8 @@ Next we can see the SW arquitecture of the robot, including the modules:
 - Tracking: In this module the robot analyzes the position of the animal detected in the image and calculates the necessary turn to follow the animal.
 - Movement: Receive instructions to perform specific movements as appropriate. Move the robot forward, backward, left and right at different speeds.
 
+### Flow Diagram Movement
+![flux](https://github.com/joelt2108/SplashGuardian/blob/bdac6626d5751c185b5a642234965b51a724660c/3d_pieces/Pictures/flux.png)
 
 # Splash Guardian App
 In addition, the robot has a complementary application for Android devices, which is responsible for sending the user a real-time photo from the robot when it detects a cat.
