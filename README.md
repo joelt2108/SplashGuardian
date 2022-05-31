@@ -29,8 +29,9 @@ To run the code it's needed:
 - [Pyrebase](https://pypi.org/project/Pyrebase/)
 
 Also for the Companion App it's needed:
--[Flutter](https://flutter.dev/)
--[Cloud Firebase Storage](https://firebase.google.com/docs/storage)
--[Path Provider](https://pub.dev/packages/path_provider)
+
+- [Flutter](https://flutter.dev/)
+- [Cloud Firebase Storage](https://firebase.google.com/docs/storage)
+- [Path Provider](https://pub.dev/packages/path_provider)
 
 
