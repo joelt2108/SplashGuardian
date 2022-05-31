@@ -8,8 +8,7 @@ Get the cats out without stopping to do what you are doing
 * [Components](#components)
 * [Hardware Scheme](#hardware-scheme)
 * [3D Pieces](#3d-pieces)
-* [Software Arquitecture](#sw-arq)
-* [Software Modules](#software-modules)
+* [Software Arquitecture and Modules](#sw-arq)
 * [Splash Guardian App](#sg-app)
 * [Amazing Contributions](#amazing-contributions)
 * [Video](#video)
@@ -90,6 +89,10 @@ For the correct operation of the robot, it has been necessary to generate the fo
 
 ### Support for dc-motor(x2)
 ![Soporte](https://github.com/joelt2108/SplashGuardian/blob/befbb2aa569ef52fd8c57cf71dd9878c6da6a263/3d_pieces/Pictures/Soporte.png)
+
+# Software Arquitecture and Modules
+Next we can see the SW arquitecture of the robot, including the modules:
+
 
 # Splash Guardian App
 In addition, the robot has a complementary application for Android devices, which is responsible for sending the user a real-time photo from the robot when it detects a cat.
