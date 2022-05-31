@@ -25,3 +25,12 @@ To run the code it's needed:
 - [OpenCV](https://opencv.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [RPi.GPIO](https://pypi.org/project/RPi.GPIO/)
+- [Multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
+- [Pyrebase](https://pypi.org/project/Pyrebase/)
+
+Also for the Companion App it's needed:
+-[Flutter](https://flutter.dev/)
+-[Cloud Firebase Storage](https://firebase.google.com/docs/storage)
+-[Path Provider](https://pub.dev/packages/path_provider)
+
+
