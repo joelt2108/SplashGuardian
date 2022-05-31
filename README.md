@@ -54,8 +54,6 @@ For the Splash  Guardian App:
  
   
 
-
-
 # Components
 - Raspberry Pi 4 B
 - USB Camera
@@ -95,15 +93,24 @@ Next we can see the SW arquitecture of the robot, including the modules:
 ![SW](https://github.com/joelt2108/SplashGuardian/blob/bdac6626d5751c185b5a642234965b51a724660c/3d_pieces/Pictures/sw_arqt.png)
 
 - Core: This is the central module of the robot, which is responsible for joining all the other modules
+
 - Camera: This module will be responsible for detecting real-time images that reach the robot, using the camera.
+
 - Detection and analysis: After obtaining the images, the robot is responsible for processing the images obtained in search of cats.
+
 - Ultrasonic Sensor: Gets the distance detected through the ultrasonic sensor connected to the raspberry.
+
 - Water pump: module responsible for actuating the water pump connected to the raspberry.
+
 - Navigation: In this module the robot executes an autonomous motion algorithm. First the ropbot advances for 5 seconds, then makes a 360-degree turn and makes a 2d mapping of the space around it, finally analyzes the mapped space, chooses the optimal direction and executes the turn to face the direction chosen.
+
 - Tracking: In this module the robot analyzes the position of the animal detected in the image and calculates the necessary turn to follow the animal.
+
 - Movement: Receive instructions to perform specific movements as appropriate. Move the robot forward, backward, left and right at different speeds.
 
 ### Flow Diagram Movement
+Here we can see how the robot moves. First, after initialazing the camera, searching for a cat, the robot will start the autonomous navigation process, where the robot advance during 5 seconds or until the ultrasound sensor detects an obstacle. In that case, the robot will rotate on itself, repeating the process. If a cat is detected here, the robot will follow the cat to a specific distance and will activate the water pump.
+
 ![flux](https://github.com/joelt2108/SplashGuardian/blob/bdac6626d5751c185b5a642234965b51a724660c/3d_pieces/Pictures/flux.png)
 
 # Splash Guardian App
