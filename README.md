@@ -13,6 +13,7 @@ Get the cats out without stopping to do what you are doing
 * [Splash Guardian App](#sg-app)
 * [Amazing Contributions](#amazing-contributions)
 * [License](#license)
+* [HW/SW Bibliography](#bibliography)
 * [Authors](#authors)
 
 # What is this?
@@ -39,7 +40,19 @@ Also for the Companion App it's needed:
 - [Path Provider](https://pub.dev/packages/path_provider)
 
 # How to use
+- Clone this repo
+- > git clone https://github.com/joelt2108/SplashGuardian.git
+For the robot code:
+- Execute python script with:
+- > python3 core.py
 
+For the Splash  Guardian App:
+- Open the Android Studio and select Tools from the menu bar and click on SDK Manager. 
+- In the newly open window click on the plugins and in the search bar search for Flutter and Dart and then install it.
+- Now after installing Flutter and Dart we are ready to import a Flutter project.
+ 
+ 
+  
 
 
 
@@ -98,6 +111,15 @@ It also allows you to remotely control the water pump when viewing the image, pe
 # License
 MIT
 
+# HW/SW Bibliography
+- https://thepihut.com/blogs/raspberry-pi-tutorials/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi
+- https://raspberrypi.stackexchange.com/questions/22105/powering-a-3-12v-water-pump-on-raspberry-pi
+- https://github.com/Arijit1080/Send-Image-from-Raspberry-Pi-to-Firebase-Storage
+- https://docs.flutter.dev/cookbook/persistence/reading-writing-files
+- https://github.com/thisbejim/Pyrebase
+- https://of3lia.com/tinkercad-tutorial-completo/
+- 
+- 
 
 # Authors
 
