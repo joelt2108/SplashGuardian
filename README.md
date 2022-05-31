@@ -117,15 +117,15 @@ Here we can see how the robot moves. First, after initialazing the camera, searc
 ![flux](https://github.com/joelt2108/SplashGuardian/blob/bdac6626d5751c185b5a642234965b51a724660c/3d_pieces/Pictures/flux.png)
 
 
-The autonomous navigation mode is perfomed with the following 3-step algorithm:
+The autonomous navigation state is perfomed with the following 3-step algorithm:
 
 1. Move forward for 5 seconds or until a blocking object is detected
 2. Perform a 360 degree spin while analizing the images recieved
 3. Choose a new direction rotate right or left based on position until it finds a clear path
 
-For all three steps the robot is constantly analyling the captured frames for cat detection. In case it detects one, it stops its current step and switches to patrol mode.
+For all three steps the robot is constantly analyling the captured frames for cat detection. In case it detects one, it stops its current step and switches to Following state.
 
-Patrol mode starts whenever the robot detects a cat, then it moves forward in the cat's direction. In case the cat is not aligned with the robot it adjusts its rotation until it faces he cat. When the robot gets close enough to the cat it activates the water pump.
+Following state starts whenever the robot detects a cat, then it moves forward in the cat's direction. In case the cat is not aligned with the robot it adjusts its rotation until it faces he cat. When the robot gets close enough to the cat it activates the water pump.
 
 # Splash Guardian App
 In addition, the robot has a complementary application for Android devices, which is responsible for sending the user a real-time photo from the robot when it detects a cat.
