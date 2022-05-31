@@ -40,11 +40,11 @@ Also for the Companion App it's needed:
 - [Path Provider](https://pub.dev/packages/path_provider)
 
 # How to use
-- Clone this repo
-- > git clone https://github.com/joelt2108/SplashGuardian.git
-For the robot code:
+Clone this repo
+ > git clone https://github.com/joelt2108/SplashGuardian.git
+- For the robot code:
 - Execute python script with:
-- > python3 core.py
+ > python3 core.py
 
 For the Splash  Guardian App:
 - Open the Android Studio and select Tools from the menu bar and click on SDK Manager. 
