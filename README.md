@@ -20,8 +20,6 @@ It has two operating modes, the automatic mode, where the robot patrols on its o
 
 To run the code it's needed:
 
--Robot chassis
-
 - [Python 3.10.x](https://www.python.org/)
 - [NumPy](https://numpy.org/)
 - [OpenCV](https://opencv.org/)
@@ -38,13 +36,16 @@ Also for the Companion App it's needed:
 
 # 3D Pieces
 For the correct operation of the robot, it has been necessary to generate the following 3d pieces:
+### Robot chassis
+(https://github.com/joelt2108/SplashGuardian/blob/befbb2aa569ef52fd8c57cf71dd9878c6da6a263/3d_pieces/Pictures/Chasis.png)
+
 
 
 # Authors
 
-Marcel Sarraseca - 1531206
-Oriol Serrat - 1423392
-Domènec Madrid - 1496304
-Joel Trujillo - 1494261
+- Marcel Sarraseca - 1531206
+- Oriol Serrat - 1423392
+- Domènec Madrid - 1496304
+- Joel Trujillo - 1494261
 
 
