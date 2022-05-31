@@ -147,6 +147,7 @@ It also allows you to remotely control the water pump when viewing the image, pe
 
 # Video
 
+https://github.com/joelt2108/SplashGuardian/blob/main/Final.mp4
 
 # License
 MIT
