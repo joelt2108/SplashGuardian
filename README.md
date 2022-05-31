@@ -79,10 +79,11 @@ For the correct operation of the robot, it has been necessary to generate the fo
 
 # Splash Guardian App
 In addition, the robot has a complementary application for Android devices, which is responsible for sending the user a real-time photo from the robot when it detects a cat.
-
+![Gat](https://github.com/joelt2108/SplashGuardian/blob/befbb2aa569ef52fd8c57cf71dd9878c6da6a263/3d_pieces/Pictures/gat.png)
 
 It also allows you to remotely control the water pump when viewing the image, perfect for users who have a cat at home and do not want to get wet. The application is developed using Flutter, a framework for the Dart programming language. Firebase is also used to store photos as a link between the Raspberry and the app, thanks to its storage service.
 
+![AppScheme](https://github.com/joelt2108/SplashGuardian/blob/befbb2aa569ef52fd8c57cf71dd9878c6da6a263/3d_pieces/Pictures/appscheme.png)
 
 
 # Amazing Contributions
