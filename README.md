@@ -20,6 +20,8 @@ It has two operating modes, the automatic mode, where the robot patrols on its o
 
 To run the code it's needed:
 
+-Robot chassis
+
 - [Python 3.10.x](https://www.python.org/)
 - [NumPy](https://numpy.org/)
 - [OpenCV](https://opencv.org/)
@@ -33,5 +35,16 @@ Also for the Companion App it's needed:
 - [Flutter](https://flutter.dev/)
 - [Cloud Firebase Storage](https://firebase.google.com/docs/storage)
 - [Path Provider](https://pub.dev/packages/path_provider)
+
+# 3D Pieces
+For the correct operation of the robot, it has been necessary to generate the following 3d pieces:
+
+
+# Authors
+
+Marcel Sarraseca - 1531206
+Oriol Serrat - 1423392
+Domènec Madrid - 1496304
+Joel Trujillo - 1494261
 
 
