@@ -37,7 +37,7 @@ Also for the Companion App it's needed:
 # 3D Pieces
 For the correct operation of the robot, it has been necessary to generate the following 3d pieces:
 ### Robot chassis
-(https://github.com/joelt2108/SplashGuardian/blob/befbb2aa569ef52fd8c57cf71dd9878c6da6a263/3d_pieces/Pictures/Chasis.png)
+![Chasis](https://github.com/joelt2108/SplashGuardian/blob/befbb2aa569ef52fd8c57cf71dd9878c6da6a263/3d_pieces/Pictures/Chasis.png)
 
 
 
