@@ -5,6 +5,7 @@
 * [What is this?](#what-is-this)
 * [Requeriments](#requeriments)
 * [How to use](#how-to-us)
+* [Components](#components)
 * [Hardware Scheme](#hardware-scheme)
 * [3D Pieces](#3d-pieces)
 * [Software Modules](#software-modules)
@@ -33,6 +34,26 @@ Also for the Companion App it's needed:
 - [Flutter](https://flutter.dev/)
 - [Cloud Firebase Storage](https://firebase.google.com/docs/storage)
 - [Path Provider](https://pub.dev/packages/path_provider)
+
+# Components
+- Raspberry Pi 4 B
+- USB Camera
+- Water Pump 12v
+- x2 DC Motors
+- HC-SR04
+- Protoboard
+- Battery 9v
+- Battery 5v
+- Powerbank 5v
+- Bridge Motor Driver l298n
+- 1K resistor
+- 2,2K resistor
+
+
+# Hardware Scheme
+Next we can see the HW Scheme of the robot, including the components:
+![HW](https://github.com/joelt2108/SplashGuardian/blob/befbb2aa569ef52fd8c57cf71dd9878c6da6a263/3d_pieces/Pictures/Final HW.jpg)
+
 
 # 3D Pieces
 For the correct operation of the robot, it has been necessary to generate the following 3d pieces:
