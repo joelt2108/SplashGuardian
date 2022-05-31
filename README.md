@@ -52,7 +52,7 @@ Also for the Companion App it's needed:
 
 # Hardware Scheme
 Next we can see the HW Scheme of the robot, including the components:
-![HW](https://github.com/joelt2108/SplashGuardian/blob/befbb2aa569ef52fd8c57cf71dd9878c6da6a263/3d_pieces/Pictures/Final HW.jpg)
+![HW](https://github.com/joelt2108/SplashGuardian/blob/2b500098e9b533b0f96ddb3a81903da9c16eba69/3d_pieces/Pictures/Final%20HW.jpg)
 
 
 # 3D Pieces
